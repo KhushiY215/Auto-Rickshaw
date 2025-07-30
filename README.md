@@ -25,7 +25,7 @@
 ## 📦 How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/autorickshaw-web-animation.git
-cd autorickshaw-web-animation
+git clone https://github.com/KhushiY215/Auto-Rickshaw.git
+cd Auto-Rickshaw
 open index.html
 
