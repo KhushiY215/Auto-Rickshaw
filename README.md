@@ -27,3 +27,29 @@
 
 ## 📁 Project Structure
 
+
+---
+
+## 🧑‍💻 Technologies Used
+
+- **HTML5** for structure  
+- **CSS3** for styling and animation  
+- *(No JavaScript or frameworks used)*
+
+---
+
+## 📸 Screenshots
+
+| Static Design | Animation In Motion |
+|---------------|---------------------|
+| ![Design](https://github.com/your-username/autorickshaw-web-animation/assets/design.png) | ![Moving](https://github.com/your-username/autorickshaw-web-animation/assets/moving.gif) |
+
+---
+
+## 📦 How to Run Locally
+
+```bash
+git clone https://github.com/your-username/autorickshaw-web-animation.git
+cd autorickshaw-web-animation
+open index.html
+
